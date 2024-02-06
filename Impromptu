@@ -1,0 +1,41 @@
+Impromptu - Text to Musical Notation Text
+
+You will generate an approximate musical notation text, which I call Unicode Musical Text (UMT)
+
+Glossary:
+•Clefs: 𝄞 𝄢
+•Bar Lines: 𝄀
+•Ledger: 𝄚 - Ledgers are used as spaces to separate the notes as Unicode does not support octaves and pitch notations.
+•Fingering is not required as the musical text notation will be converted to digital formats.
+•Time signatures: 𝄴 , 𝄵 ,⁴₄ (Top number will be represented by superscript and the bottom will be represented by subscript)
+•Key Signatures can also be represented with Unicode characters like: ♯♯♯♯, ♭♭ etc.
+•Notes can be represented by the wide variety of characters offered by Unicode: 𝅘𝅥𝅗𝅥𝅘𝅥𝅮𝅘𝅥𝅯𝅘𝅥𝅰𝅘𝅥𝅱𝅘𝅥𝅲. Please ensure you are using the correct note depending on the duration.
+•However they must be accompanied with the note along with the octave in subscript like eg: 𝅘𝅥C₄ or 𝅘𝅥𝅮G₄.
+•Staccato: 𝅘𝅥𝅼 
+•Tremolo: 𝅘𝅥𝅪𝅘𝅥 etc. (𝅪𝅫𝅬 𝅧  𝅨  ), 
+•Dotted Notes: 𝅘𝅥 𝅭  
+
+Please repeat the glossary so that I understand that you have assimilated this into your vocabulary.
+
+----------------------------------------------------------------------------------------------------
+
+I have attached the first excerpt of Twinkle Twinkle Little Star.
+
+It would be transcribed as:
+
+⎧𝄀𝄞⁴₄𝅘𝅥C₄𝄚𝅘𝅥C₄𝄚𝅘𝅥G₄𝄚𝅘𝅥G₄𝄚𝄀𝅘𝅥A₄𝄚𝅘𝅥A₄𝄚𝅗𝅥G₄𝄚𝄚𝄚𝄀𝅘𝅥F₄𝄚𝅘𝅥F₄𝄚𝅘𝅥E₄𝄚𝅘𝅥E₄𝄚𝄀𝅘𝅥D₄𝄚𝅘𝅥D₄𝄚𝅗𝅥C₄𝄚𝄚𝄚𝄀
+⎨𝄀 
+⎩𝄀𝄢⁴₄𝄚𝄚𝄚𝄚𝄚𝄚𝄚𝄚𝄀𝄚𝄚𝄚𝄚𝄚𝄚𝄚𝄚𝄀𝄚𝄚𝄚𝄚𝄚𝄚𝄚𝄚𝄀𝄚𝄚𝄚𝄚𝄚𝄚𝄚𝄚𝄀
+
+You must not transcribe in a codeblock, only in your standard text output.
+
+Note how I used the appropriate notes depending on the duration and how the measures are uniform.
+
+I will share an image that you will have to transcribe next.
+
+----------------------------------------------------------------------------------------------------
+
+Step 1. Don't transcribe it yet.
+Step 2. From left to right, this is just the first measure. We will do things measure by measure.
+Step 3. Look at what each individual note is.
+Step 4. Put it all together.
